@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  pc-agent
+  pc_agent
 
 variables:
   buildConfiguration: 'Release'
