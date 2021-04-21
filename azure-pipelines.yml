@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: pc_agent
+pool: Default
 
 variables:
   buildConfiguration: 'Release'
